@@ -1,0 +1,21 @@
+{
+  "information_title": "AI Interviewer Information",
+  "project_description": "Welcome to the AI Interviewer! This project is designed to help you practice and improve your interview skills by simulating realistic interview scenarios. Whether you're preparing for a job interview, college admissions, or other opportunities, our AI Interviewer will provide valuable feedback to enhance your performance.",
+  "usage_instructions_title": "How to Use the AI Interviewer",
+  "usage_instructions": "Here's how to get started:\n1. Select the interview category that best fits your needs.\n2. Engage in a dynamic conversation as the AI asks you interview questions.\n3. Receive instant feedback and tailored tips to refine your answers.\n4. Practice as many times as you like to improve and gain confidence!",
+  "next_button_text": "Next",
+  "chat_title": "AI Interviewer",
+  "chat_placeholder": "Type your message",
+  "chat_save_button": "Save chat",
+  "chat_send_button": "Send",
+  "chat_user_label": "You",
+  "chat_ai_label": "Interviewer",
+  "chat_error_empty": "There is nothing to send!",
+  "chat_error_fetch": "Failed to send the message. Please try again.",
+  "chat_error_save": "Failed to generate chat summary.",
+  "chat_save_success": "Chat log saved successfully.",
+  "chat_typing_label": "Typing...",
+  "chat_download_agents_work_button": "Download Agents Work",
+  "chat_download_agents_work_error": "Failed to download agents work log.",
+  "chat_download_agents_work_success": "Agents work log downloaded successfully."
+}

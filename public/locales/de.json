@@ -1,0 +1,21 @@
+{
+  "information_title": "Informationen für AI-Interviewer",
+  "project_description": "Willkommen beim AI Interviewer! Dieses Projekt soll Ihnen dabei helfen, Ihre Fähigkeiten bei Vorstellungsgesprächen zu üben und zu verbessern, indem es realistische Gesprächsszenarien simuliert. Ganz gleich, ob Sie sich auf ein Vorstellungsgespräch, eine Hochschulzulassung oder andere Gelegenheiten vorbereiten, unser AI Interviewer wird Ihnen wertvolles Feedback geben, um Ihre Leistung zu verbessern.",
+  "usage_instructions_title": "Wie man den AI Interviewer benutzt",
+  "usage_instructions": "Um den AI Interviewer zu verwenden, führen Sie die folgenden Schritte aus:\n1. Wählen Sie eine Kategorie oder eine Art von Interview, die Sie üben möchten.\n2. Beantworten Sie die vom AI bereitgestellten Fragen.\n3. Erhalten Sie Feedback und Tipps auf der Grundlage Ihrer Antworten.\n4. Wiederholen und verbessern Sie Ihre Antworten, um bessere Ergebnisse zu erzielen.",
+  "next_button_text": "Next",
+  "chat_title": "AI Interviewer",
+  "chat_placeholder": "Geben Sie Ihre Nachricht ein",
+  "chat_save_button": "Chat speichern",
+  "chat_send_button": "Senden",
+  "chat_user_label": "Du",
+  "chat_ai_label": "Interviewer",
+  "chat_error_empty": "Es gibt nichts zu senden!",
+  "chat_error_fetch": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut.",
+  "chat_error_save": "Fehler beim Erstellen der Chat-Zusammenfassung.",
+  "chat_save_success": "Chat-Protokoll erfolgreich gespeichert.",
+  "chat_typing_label": "Schreiben...",
+  "chat_download_agents_work_button": "Agentenprotokoll herunterladen",
+  "chat_download_agents_work_error": "Fehler beim Herunterladen des Agentenprotokolls.",
+  "chat_download_agents_work_success": "Agentenprotokoll erfolgreich heruntergeladen."
+}
