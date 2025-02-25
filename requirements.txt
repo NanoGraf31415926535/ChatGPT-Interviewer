@@ -1,0 +1,6 @@
+flask
+openai
+openai-0.28.0
+flask-cors
+requests
+python-dotenv

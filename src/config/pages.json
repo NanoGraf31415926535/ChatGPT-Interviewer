@@ -1,0 +1,10 @@
+{
+  "P1_Information": {
+    "path": "/P1_Information",
+    "file": "P1_Information.jsx"
+  },
+  "P2_Experiment": {
+    "path": "/P2_Interviewer",
+    "file": "P2_Interviewer.jsx"
+  }
+}

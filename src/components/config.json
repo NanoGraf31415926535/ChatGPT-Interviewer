@@ -1,0 +1,38 @@
+{
+  "question_limits": [6, 5, 3, 2, 4, 3],
+  "messages": {
+    "welcome": "Welcome to the Interview Chat, I am glad you are here! Let's get started. Can you help me understand why you currently do not own any stocks or stock mutual funds?",
+    "thank_you": "Thank you for sharing! Let's move forward.",
+    "follow_up_prompt": "Can you describe any specific experiences or events that have influenced your perception of the stock market as being too risky?",
+    "summary_prompt": "Summarize this conversation.",
+    "transition_question_prompt": "Create a transition question for the next topic.",
+    "moderation_check_failed": "An issue occurred during the moderation process. Continuing without flagging.",
+    "error_summarizing": "Error summarizing conversation:",
+    "reanswer_prompt": "Please provide a meaningful and respectful response.",
+    "offensive_content": "Your response contains offensive content. Please rephrase.",
+    "nonsensical_input": "Your input doesn't seem to make sense. Can you elaborate?",
+    "rude_language": "Your response was rude. Please rephrase respectfully.",
+    "moderation_error": "An error occurred while moderating your input. Please try again.",
+    "analysis_prompt": "Please analyze the user's response and provide a structured assessment.",
+    "probing_question_prompt": "Can you elaborate on that?",
+    "transition_prompt": "Let's move on to the next topic:",
+    "end_of_interview": "Thank you for sharing your insights and experiences today. Your input is invaluable to our research. Please proceed to the next page.",
+    "user_message_required": "You need to enter a message.",
+    "error_generating_question": "I couldn't generate a question. Please try again.",
+    "repeated_nonsense": "You've already provided this response. Please provide something different.",
+    "no_conversation_to_summarize": "There is no conversation history to summarize.",
+    "agents_work_log_header": "Agents Work Log",
+    "error_downloading_agents_work": "An error occurred while downloading the agents' work log. Please try again.",
+    "download_error": "Error downloading agents' work log.",
+    "reflection_question_1": "As we conclude our discussion, are there any perspectives or information you feel we haven’t addressed that you’d like to share?",
+    "reflection_question_2": "Reflecting on our conversation, what would you identify as the main reason you’re not participating in the stock market?"
+  },
+  "topics": [
+    "Can you describe specific experiences that shaped your view of the stock market?", 
+    "How do other's experiences influence your perspective on investing?", 
+    "What resources or support would make you more confident in investing?", 
+    "What has prevented you from learning more about the stock market?", 
+    "How does your financial situation impact your investment choices?", 
+    "If you were to invest today, how would you approach it?"
+  ]
+}  

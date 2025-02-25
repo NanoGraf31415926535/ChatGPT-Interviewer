@@ -1,0 +1,18 @@
+{
+    "endowment": {
+      "type": "number",
+      "value": 6
+    },
+    "stepSize": {
+      "type": "number",
+      "value": 1
+  },
+  "minValue": {
+    "type": "number",
+    "value": 1
+  },
+  "maxValue": {
+    "type": "number",
+    "value": 6
+  }
+}
